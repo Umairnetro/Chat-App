@@ -10,9 +10,6 @@ const {
   VITE_measurementId,
 } = import.meta.env;
 
-console.log({VITE_apiKey});
-
-
 const firebaseConfig = {
   apiKey: VITE_apiKey,
   authDomain: VITE_authDomain,
