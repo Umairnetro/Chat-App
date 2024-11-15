@@ -19,6 +19,7 @@ function App() {
       element: <SignUp />,
     },
   ]);
+
   return (
     <>
       <div className="form-container">
